@@ -152,6 +152,7 @@ body, html {
   border-color: var(--dl-color-theme-neutral-dark);
   border-width: 1px;
   flex-direction: column;
+  padding: 20px;
 }
 .banner1-container2 {
   gap: var(--dl-space-space-halfunit);
